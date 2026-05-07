@@ -1,0 +1,12 @@
+{
+  "name": "pckt-ds-main",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "build:tokens": "node scripts/build-tokens.js"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC"
+}

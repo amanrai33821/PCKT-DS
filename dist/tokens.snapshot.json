@@ -1,0 +1,42 @@
+{
+  "light": {
+    "button-primary-bg-default": "33, 188, 188",
+    "button-primary-txt-default": "239, 239, 239",
+    "button-primary-bg-hover": "46, 150, 95",
+    "button-primary-txt-hover": "188, 202, 80",
+    "button-secondary-bg-default": "218, 50, 153",
+    "button-secondary-txt-default": "75, 11, 50",
+    "button-secondary-txt-hover": "239, 239, 239",
+    "button-secondary-bg-hover": "130, 21, 88",
+    "black-100": "14, 14, 14",
+    "black-200": "239, 239, 239",
+    "green-true": "22, 130, 62",
+    "green-false": "137, 15, 15",
+    "blue-100": "48, 68, 127",
+    "background-primary": "14, 14, 14",
+    "background-secondary": "239, 239, 239",
+    "txt-primary": "22, 130, 62",
+    "txt-secondary": "137, 15, 15",
+    "icon-primary": "48, 68, 127"
+  },
+  "dark": {
+    "button-primary-bg-default": "21, 68, 91",
+    "button-primary-txt-default": "57, 14, 14",
+    "button-primary-bg-hover": "21, 80, 49",
+    "button-primary-txt-hover": "104, 112, 43",
+    "button-secondary-bg-default": "114, 27, 81",
+    "button-secondary-txt-default": "158, 22, 106",
+    "button-secondary-txt-hover": "71, 69, 69",
+    "button-secondary-bg-hover": "194, 32, 132",
+    "black-100": "239, 239, 239",
+    "black-200": "14, 14, 14",
+    "green-true": "13, 86, 40",
+    "green-false": "78, 9, 9",
+    "blue-100": "85, 118, 218",
+    "background-primary": "239, 239, 239",
+    "background-secondary": "14, 14, 14",
+    "txt-primary": "15, 88, 42",
+    "txt-secondary": "80, 11, 11",
+    "icon-primary": "76, 109, 209"
+  }
+}

@@ -1,0 +1,20 @@
+module.exports = {
+  "background-primary": "rgba(var(--background-primary))",
+  "background-secondary": "rgba(var(--background-secondary))",
+  "black-100": "rgba(var(--black-100))",
+  "black-200": "rgba(var(--black-200))",
+  "blue-100": "rgba(var(--blue-100))",
+  "button-primary-bg-default": "rgba(var(--button-primary-bg-default))",
+  "button-primary-bg-hover": "rgba(var(--button-primary-bg-hover))",
+  "button-primary-txt-default": "rgba(var(--button-primary-txt-default))",
+  "button-primary-txt-hover": "rgba(var(--button-primary-txt-hover))",
+  "button-secondary-bg-default": "rgba(var(--button-secondary-bg-default))",
+  "button-secondary-bg-hover": "rgba(var(--button-secondary-bg-hover))",
+  "button-secondary-txt-default": "rgba(var(--button-secondary-txt-default))",
+  "button-secondary-txt-hover": "rgba(var(--button-secondary-txt-hover))",
+  "green-false": "rgba(var(--green-false))",
+  "green-true": "rgba(var(--green-true))",
+  "icon-primary": "rgba(var(--icon-primary))",
+  "txt-primary": "rgba(var(--txt-primary))",
+  "txt-secondary": "rgba(var(--txt-secondary))"
+}
